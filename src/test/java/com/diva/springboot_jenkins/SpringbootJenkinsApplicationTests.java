@@ -15,7 +15,7 @@ class SpringbootJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		log.info("test case executed......");
-		log.info("second test case executed......");
+		log.info("pipe line added......");
 		assertEquals(true, true);
 	}
 
